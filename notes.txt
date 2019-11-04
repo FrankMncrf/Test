@@ -1,3 +1,5 @@
 Notes project repo 1
 
 Using git Lab
+
+First project Note
